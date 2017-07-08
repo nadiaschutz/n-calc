@@ -1,0 +1,4 @@
+- What do you need to use this pricing problem solution:
+    - any browser (e.g. Google Chrome)
+    - no installation needed 
+    - put your data in pop-up window to calculate 
